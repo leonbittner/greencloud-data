@@ -1,0 +1,40 @@
+{
+    "_id":3,
+    "Name":"Google",
+    "Tag":"google",
+    "Logo":"https://greencloudfiles.s3.eu-central-1.amazonaws.com/logos/Google-Cloud-Logo.svg",
+    "Description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "Scoring":{
+       "EnergyProcurement":{
+          "Score":50,
+          "Text":"GCP uses 50% energy from sustainable sources..."
+       },
+       "EnergyEfficiencyGHGMitigation":{
+          "Score":35,
+          "Text":"GCP..."
+       },
+       "Commitment":{
+          "Score":20,
+          "Text":"Azure contributes to various..."
+       },
+       "Transparency":{
+          "Score":10,
+          "Text":"Azure lacks transparency especially..."
+       },
+       "Final-Score":80
+    },
+    "Sources":[
+       {
+          "Title":"Clicking Clean",
+          "Author":"Greenpeace Foundation",
+          "Year":2019,
+          "File":"clicking-clean-greenpeace.pdf"
+       },
+       {
+          "Title":"GCP Sustainability Report",
+          "Author":"Microsoft Inc.",
+          "Year":2020,
+          "File":"GCP-sustainability-report.pdf"
+       }
+    ]
+ }

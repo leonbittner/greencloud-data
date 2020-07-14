@@ -1,0 +1,65 @@
+[
+    {
+       "Type":"article",
+       "Date":"April 30, 2020",
+       "Title":"The dark side of cloud computing: soaring carbon emissions",
+       "Picture-Url":"",
+       "Snippet": "Experts warn the electricity consumption and carbon footprint of cloud computing will more than double from 2007 levels by 2020.",
+       "Author": "The Guardian",
+       "Url": "https://www.theguardian.com/environment/2010/apr/30/cloud-computing-carbon-emissions"
+    },
+    {
+      "Type":"Study",
+      "Date":"May 22, 2017",
+      "Title":"Greenpeace Report: Clicking Clean",
+      "Picture-Url":"",
+      "Snippet": "The Internet needs a lot of energy, and its footprint grows every day as we live more and more of our lives online. That’s why Greenpeace is calling on major Internet companies to lead the way in renewable power.",
+      "Author": "Greenpeace",
+      "Url": "http://www.clickclean.org/downloads/ClickClean2016%20HiRes.pdf"
+   },
+   {
+      "Type":"article",
+      "Date":"April 30, 2020",
+      "Title":"Lorem ipsum dolor sit amet, co",
+      "Picture-Url":"",
+      "Snippet": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ",
+      "Author": "The Guardian",
+      "Url": "https://www.theguardian.com/environment/2010/apr/30/cloud-computing-carbon-emissions"
+   },
+   {
+      "Type":"article",
+      "Date":"April 30, 2020",
+      "Title":"At vero eos et accusam et justo duo dolores",
+      "Picture-Url":"",
+      "Snippet": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
+      "Author": "The Guardian",
+      "Url": "https://www.theguardian.com/environment/2010/apr/30/cloud-computing-carbon-emissions"
+   },
+   {
+      "Type":"article",
+      "Date":"April 30, 2020",
+      "Title":"Experts warn the electricity consumption and carbon footprint",
+      "Picture-Url":"",
+      "Snippet": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "Author": "The Guardian",
+      "Url": "https://www.theguardian.com/environment/2010/apr/30/cloud-computing-carbon-emissions"
+   },
+   {
+      "Type":"article",
+      "Date":"April 30, 2020",
+      "Title":"soaring carbon emissions",
+      "Picture-Url":"",
+      "Snippet": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores",
+      "Author": "The Guardian",
+      "Url": "https://www.theguardian.com/environment/2010/apr/30/cloud-computing-carbon-emissions"
+   },
+   {
+      "Type":"article",
+      "Date":"April 30, 2020",
+      "Title":"The dark side",
+      "Picture-Url":"",
+      "Snippet": "Esed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores.",
+      "Author": "The Guardian",
+      "Url": "https://www.theguardian.com/environment/2010/apr/30/cloud-computing-carbon-emissions"
+   }
+ ]
